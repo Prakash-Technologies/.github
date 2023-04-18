@@ -1,4 +1,5 @@
-![5](https://user-images.githubusercontent.com/65062036/203357279-f4414da7-c056-4120-a67d-20bd214d4458.png)
+
+![Github Org banner of Prakashh Tech](https://user-images.githubusercontent.com/65062036/232669865-8ad52c6c-05bb-4372-b19d-24811b121ff9.png)
 
 <h1 align="center">Prakashh Technologies 🌐</h1>
 
