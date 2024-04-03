@@ -1,5 +1,7 @@
 
-![Github Org banner of Prakashh Tech](https://github.com/prakashhtech/.github/assets/65062036/7f94ef72-ff2a-48b3-b692-33c244197b24)
+
+![Github Org banner of Prakashh Tech](https://github.com/prakashhtech/.github/assets/65062036/41c6fffa-53a1-4a39-9f0d-d8b99abb1249)
+
 
 
 <h1 align="center">Welcome to Prakashh Tech 🌐 GitHub Org </h1>
@@ -17,6 +19,4 @@ We build stuff to solve problems and help people, that's it. Oh and also, to hav
 <a href="">
 
 -->
-
-
 
