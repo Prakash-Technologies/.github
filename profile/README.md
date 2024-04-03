@@ -1,9 +1,10 @@
 
-![Github Org banner of Prakashh Tech](https://user-images.githubusercontent.com/65062036/232669865-8ad52c6c-05bb-4372-b19d-24811b121ff9.png)
+![Github Org banner of Prakashh Tech](https://github.com/prakashhtech/.github/assets/65062036/7f94ef72-ff2a-48b3-b692-33c244197b24)
+
 
 <h1 align="center">Welcome to Prakashh Tech 🌐 GitHub Org </h1>
 
-Wanna apply? Applications will be opened soon, follow our social media handles to stay updated.
+We build stuff to solve problems and help people, that's it. Oh and also, to have fun!
 
 
 <!--
